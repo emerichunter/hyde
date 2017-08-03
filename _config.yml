@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'EmericHunter'
-  url:            https://github.com/emerichunter
+  url:            http://www.loxodata.com
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/emerichunter
